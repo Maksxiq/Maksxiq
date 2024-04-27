@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maksxiq
-- 👀 I’m interested in web development/mamybe full stack
+- 👀 I’m interested in web development/maybe full stack
 - 🌱 I’m currently learning full stack web development/ play on guitar
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me telegram (@snow_in_window)
